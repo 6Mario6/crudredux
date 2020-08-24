@@ -29,6 +29,21 @@
       "nombre": "Rib eye",
       "precio": 8000,
       "id": 6
+    },
+    {
+      "nombre": "test",
+      "precio": 32,
+      "id": 7
+    },
+    {
+      "nombre": "test",
+      "precio": 12,
+      "id": 8
+    },
+    {
+      "nombre": "test",
+      "precio": 2323,
+      "id": 9
     }
   ]
 }
